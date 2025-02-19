@@ -24,6 +24,3 @@ This repository is dedicated to analyzing and preparing for interview questions 
 ## Contributing
 Contributions and suggestions are welcome. Feel free to submit pull requests or open issues.
 
-## License
-This project is licensed under the MIT License.
-
